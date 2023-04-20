@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/my-course-react-hw-04-image-finder/static/css/main.055413f7.css",
+    "main.js": "/my-course-react-hw-04-image-finder/static/js/main.c8319539.js",
+    "index.html": "/my-course-react-hw-04-image-finder/index.html",
+    "main.055413f7.css.map": "/my-course-react-hw-04-image-finder/static/css/main.055413f7.css.map",
+    "main.c8319539.js.map": "/my-course-react-hw-04-image-finder/static/js/main.c8319539.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.055413f7.css",
+    "static/js/main.c8319539.js"
+  ]
+}
